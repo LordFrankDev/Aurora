@@ -1,0 +1,3 @@
+idea surgidas
+
+1. Que se consuma una api, ejemplo maps, y que se envie tanto el origen y destino y se devuelva la distancia en km total. Que seria lo que va a recorrer el paquete desde origen a destino.
