@@ -7,7 +7,6 @@ public class Pedido
     public int IdRuta { get; set; }
     public int IdEmpresa { get; set; }
     public int IdVehiculo { get; set;}
-    public int IdVehiculo { get; set;}
     public required string Nombre { get; set; }
     public required double Peso { get; set; } // Expresado en kilogramos
     public required double Volumen { get; set; } //Expresado en metros cúbicos
